@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 26 22:45:17 2020
 
 
-"""
 
 # Convert any text or link into Qr code so that futher it can be used.
 # do first install  pyqrcode , pypng
